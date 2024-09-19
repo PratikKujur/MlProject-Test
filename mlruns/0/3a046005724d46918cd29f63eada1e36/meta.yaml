@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/100devMl/Projects/MlProject-Test/mlruns/0/3a046005724d46918cd29f63eada1e36/artifacts
+end_time: 1726727203335
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a046005724d46918cd29f63eada1e36
+run_name: peaceful-roo-702
+run_uuid: 3a046005724d46918cd29f63eada1e36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726727202387
+status: 3
+tags: []
+user_id: Prathik

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/100devMl/Projects/MlProject-Test/mlruns/0/9ad5fd79a3564f6a917960eaa583f035/artifacts
+end_time: 1726737477139
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9ad5fd79a3564f6a917960eaa583f035
+run_name: abundant-worm-260
+run_uuid: 9ad5fd79a3564f6a917960eaa583f035
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726737476276
+status: 3
+tags: []
+user_id: Prathik

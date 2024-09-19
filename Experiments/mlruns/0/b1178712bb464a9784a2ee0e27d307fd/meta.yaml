@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/100devMl/Projects/MlProject-Test/Experiments/mlruns/0/b1178712bb464a9784a2ee0e27d307fd/artifacts
+end_time: 1726736522738
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b1178712bb464a9784a2ee0e27d307fd
+run_name: learned-gnu-342
+run_uuid: b1178712bb464a9784a2ee0e27d307fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726736521931
+status: 3
+tags: []
+user_id: Prathik

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/100devMl/Projects/MlProject-Test/mlruns/0/3c38b85865034e419fd6d893f1197f9c/artifacts
+end_time: 1726727385174
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c38b85865034e419fd6d893f1197f9c
+run_name: exultant-pug-281
+run_uuid: 3c38b85865034e419fd6d893f1197f9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726727384380
+status: 3
+tags: []
+user_id: Prathik
